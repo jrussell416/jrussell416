@@ -10,12 +10,12 @@ A little about me and what I'm up to:
 - 💬 Ask me about ...
 - ⚡ Fun fact: I also volunteer as a roller derby referee in Toronto
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_#E34F26>)
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 Get in touch
 - 📫 jc.russell@yahoo.com or https://www.linkedin.com/in/jennifer-russell/; 
