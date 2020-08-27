@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+A little about me and what I'm up to:
 
 - 🔭 I’m currently working on personal projects to cement my learning and build my portfolio
 - 🌱 I’m currently learning JavaScript, MERN stack and responsive design
