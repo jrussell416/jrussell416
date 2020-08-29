@@ -4,7 +4,7 @@
 
 I'm an aspiring software developer currently engged in online self study. I'm always trying to learn new things and apply my knowledge to bettering myelf and the spaces I'm part of. 
 
-Outside of work and studying , I have a passion for volunteering; usually at a roller derby bout as part of a team of officials, binging a show on Netflix, or combing Ravelry for a great knit or crochet patterns. 
+Outside of work and studying , I have a passion for volunteering; usually at a roller derby bout as part of a team of officials. I also be found reading, binging a show on Netflix, or combing Ravelry for great knit or crochet patterns. 
 
 I'm excited for the opportunity to take my past experiences and combine them with my new tech knowledge to develop a foundation for a career in software development
 
