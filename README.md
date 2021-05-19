@@ -2,7 +2,7 @@
 
 ## A little about me and what I'm up to:
 
-I'm a software developer currently engged in online self study. I'm always trying to learn new things and apply my knowledge to bettering myelf and the spaces I'm part of. 
+I'm a software developer currently engaged in online self study. I'm always trying to learn new things and apply my knowledge to bettering myelf and the spaces I'm part of. 
 
 Outside of work and studying , I have a passion for volunteering; usually at a roller derby bout as part of a team of officials. I also be found reading, binging a show on Netflix, or combing Ravelry for great knit or crochet patterns. 
 
