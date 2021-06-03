@@ -4,7 +4,7 @@
 
 I'm a software developer currently engaged in online self study. I'm always trying to learn new things and apply my knowledge to bettering myelf and the spaces I'm part of.
 
-Outside of work and studying , I have a passion for volunteering. I can also be found reading, bingeing a show on Netflix, or combing Ravelry for great knit or crochet patterns.
+Outside of work and studying, I have a passion for volunteering. I can also be found reading, bingeing a show on Netflix, or combing Ravelry for great knit or crochet patterns.
 
 I'm excited for the opportunity to take my past experiences and combine them with my new tech knowledge to develop a foundation for a career in software development
 
@@ -16,11 +16,13 @@ I'm excited for the opportunity to take my past experiences and combine them wit
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7719AA)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=7719AA)
+
 
 
 
