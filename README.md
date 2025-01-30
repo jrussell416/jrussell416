@@ -9,23 +9,21 @@ Outside of work and studying, I have a passion for volunteering. I can also be f
 I'm excited for the opportunity to take my past experiences and combine them with my new tech knowledge to develop a foundation for a career in software development
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on personal projects to cement my learning and build my portfolio
-- 🌱 I’m currently learning Python, Ruby and related frameworks with a focus on back-end
-- 👯 I’m looking to collaborate on open source projects and hackathons
+- 🔭 I’m currently working on personal projects to continue my learning and build my portfolio
+- 💻 I've worked in Quality Assurance focusing on User-Side Manual Testing
+- 👩🏿‍💻 I’m currently Ruby, Rails, Testing and APIs
+- 🫱🏽‍🫲🏿🫱🏿‍🫲🏻 I’m looking to collaborate on open source projects and hackathons
 - ⚡ Fun fact: I also volunteer as a roller derby referee in Toronto
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=7719AA)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=7719AA)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7719AA)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=7719AA)
-
+![](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&color=7719AA)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 
 
 ## Get in touch
-- 📫 jc.russell@yahoo.com or https://www.linkedin.com/in/jennifer-russell/; 
+- 📫 jc.russell416@gmail.com or https://www.linkedin.com/in/jennifer-russell/; 
 
